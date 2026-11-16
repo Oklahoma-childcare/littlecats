@@ -1,0 +1,13 @@
+{
+  "name": "little-cats-childcare-cashion",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Editable, dependency-free six-page website for Little Cats Childcare LLC in Cashion, Oklahoma.",
+  "scripts": {
+    "dev": "node scripts/dev.mjs",
+    "build": "node scripts/build.mjs",
+    "check": "node scripts/check.mjs"
+  },
+  "engines": { "node": ">=18" }
+}

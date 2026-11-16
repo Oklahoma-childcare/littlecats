@@ -1,0 +1,30 @@
+{
+  "name": "Little Cats Childcare LLC",
+  "shortName": "Little Cats",
+  "tagline": "Small place. Big firsts.",
+  "city": "Cashion",
+  "state": "Oklahoma",
+  "stateCode": "OK",
+  "street": "101 N Euclid Street",
+  "postalCode": "73016",
+  "phoneDisplay": "(214) 886-3384",
+  "phoneE164": "+12148863384",
+  "email": "littlecatschildcarellc@gmail.com",
+  "director": "Kelley Maloy",
+  "licenseId": "K830058305",
+  "licenseUrl": "https://ccl.dhs.ok.gov/providers/K830058305",
+  "capacity": 8,
+  "starLevel": 1,
+  "weekdayHours": "7:30 AM–4:00 PM",
+  "opens24": "07:30",
+  "closes24": "16:00",
+  "schedule": "School year only",
+  "ageGroups": [
+    { "id": "infants", "title": "Infants", "ages": "0–11 months", "label": "The very first chapter", "summary": "From the earliest sounds to the first milestones, every family has its own list of questions about care." },
+    { "id": "toddlers", "title": "Toddlers", "ages": "12–23 months", "label": "The wonder-everywhere chapter", "summary": "New words, little steps and big discoveries make this a busy stage to plan around." },
+    { "id": "preschool", "title": "Preschool", "ages": "2–4 years", "label": "The try-it-myself chapter", "summary": "Stories, growing independence and friendships are some of the things families may want to discuss." }
+  ],
+  "socialLinks": [],
+  "domain": "",
+  "updated": "2026-11-16"
+}

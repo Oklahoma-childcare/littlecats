@@ -1,0 +1,9 @@
+{
+  "logo": { "src": "/branding/logo.png", "alt": "Little Cats logo" },
+  "hero": { "src": "/art/little-cats-world.svg", "alt": "Original illustration of two friendly cats with colorful early-learning toys" },
+  "chapterInfants": { "src": "/art/infants.svg", "alt": "Original illustration of a sleepy cat, moon and colorful baby mobile" },
+  "chapterToddlers": { "src": "/art/toddlers.svg", "alt": "Original illustration of a curious cat stacking colorful blocks" },
+  "chapterPreschool": { "src": "/art/preschool.svg", "alt": "Original illustration of a cat reading an open storybook" },
+  "feature": { "src": "/art/paper-world.svg", "alt": "Original paper-cut illustration of pencils, a book, blocks and a cat" },
+  "about": { "src": "/art/about-cats.svg", "alt": "Original playful illustration of two cats meeting beneath a sun" }
+}
